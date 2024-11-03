@@ -1,1 +1,1 @@
-export { LandingHeader } from './headers';
+export { Header } from "./header";
